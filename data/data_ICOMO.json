@@ -419,7 +419,6 @@
             "HCW104"
          ]
       ],
-
       [
          "Políticas e Instituciones",
          "HAH103",
@@ -440,6 +439,17 @@
             "ICS222",
 	    "ICS286",
 	    "ICS285"
+         ]
+      ],
+      [
+         "Entorno Legal de la Empresa",
+         "ICS315",
+         3,
+         "ADMI"
+         [
+            "ICS214",
+	    "ICS244",
+	    "HAH103"
          ]
       ],
       [
