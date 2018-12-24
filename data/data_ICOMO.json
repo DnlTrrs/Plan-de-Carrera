@@ -26,6 +26,7 @@
    "s4":[
       ["Deportes","DEW0",1,"EFI",["EFI101"]],
       ["Contabilidad de Gestión","ICS143",3,"FINZ",["ICS141"]],
-      ["Microeconomía I","ICS162",4,"ECON",["ICS161","MATE25"]]
+      ["Microeconomía I","ICS162",4,"ECON",["ICS161","MATE25"]],
+      ["Cálculo integral","MATE26",3,"MATE",["MATE25"]]
    ]
 }
