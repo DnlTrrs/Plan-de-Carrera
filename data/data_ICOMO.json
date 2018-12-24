@@ -46,5 +46,13 @@
       ["Microeconomía II","ICS264",3,"ECON",["ICS162","MATE26"]],
       ["Econometría","ICS294",4,"OPER",["MATE27"]],
       ["Inglés IV","HCW103",2,"ENGL",["HCW102"]]
+   ],
+   "s7":[
+      ["Marketing Táctico","ICS232",3,"MKTG",["ICS231","MATE27"]],
+      ["Finanzas Corporativas","ICS246",3,"FINZ",["ICS245","ICS294"]],
+      ["Organización Industrial","ICS265",3,"ECON",["ICS264","ICS263"]],
+      ["Investigación de Operaciones","ICS295",4,"OPER",["MATE27"]],
+      ["Inglés V","HCW104",2,"ENGL",["HCW103"]],
+      ["Dirección de Personas","ICS214",3,"ADMI",["ICS111","HAH102"]]
    ]
 }
