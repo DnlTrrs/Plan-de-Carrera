@@ -11,7 +11,7 @@ var carreras = {
     'ICI': 'Industrial',
 	'ELO': 'Electrónica',
 	'TEL': 'Telemática',
-	'ICOM': 'Comercial',
+	'ICOM': 'Comercial 05',
 	'ICOMO': 'Comercial 06',
 	'CIV': 'Civil',
 	'MAT': 'Matemática',
