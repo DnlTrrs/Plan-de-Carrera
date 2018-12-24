@@ -1,6 +1,6 @@
 ﻿{
 	"MATE": ["#CC6600", "Matemática"],
-	"TLLR": ["#FFFF00", "Talleres, Creación, Seminario"],
+	"TLLR": ["#FF0040", "Talleres, Creación, Seminario"],
 	"HUM": ["#66CC33", "Estudios Humanísticos"],
 	"EFI": ["#3366CC", "Defider"],
 	"INFO": ["#660099", "Informática"],
