@@ -62,5 +62,12 @@
       ["Gestión de Operaciones","ICS296",4,"OPER",["ICS295"]],
       ["Inglés VI","HCW105",2,"ENGL",["HCW104"]],
       ["Políticas e Instituciones","HAH103",2,"HUM",["HAH102"]]
+   ],
+   "s9":[
+      ["Taller de Emprendimiento e Innovación","ICS387",3,"TLLR",["ICS222","ICS286","ICS285"]],
+      ["Entorno Legal de la Empresa","ICS315",4,"ADMI",["ICS214","ICS244","HAH103]],
+      ["Dirección y Liderazgo Organizacional","ICS113",4,"ADMI",["ICS214"]],
+      ["Electivo I","ICS801",3,"ELEC"],
+      ["Electivo II","ICS802",3,"ELEC"]
    ]
 }
