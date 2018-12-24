@@ -27,7 +27,7 @@ var total_ramos = 0;
 let id = 1;
 
 // verificamos que malla busca
-var current_malla = 'INF';
+var current_malla = 'ICOM06';
 if (window.location.search) {
 	var params = new URLSearchParams(window.location.search);
 	if (params.has('m'))
