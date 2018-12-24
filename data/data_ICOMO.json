@@ -14,5 +14,13 @@
       ["Pre-Cálculo","MATE11",3,"MATE",["MATE10"]],
       ["Álgebra Lineal","MATE20",3,"MATE",["MATE10"]],
       ["Legislación Empresarial","ICS112",3,"ADMI",["ICS111"]]
+   ],
+   "s3":[
+      ["Teoría Financiera","ICS142",3,"FINZ",["INF130","MATE20"]],
+      ["Contabilidad Financiera","ICS141",3,"FINZ",["ICS112"]],
+      ["Bases de Datos para la Gestión","INF303",3,"INFO",["INF130"]],
+      ["Cálculo diferencial","MATE25",3,"MATE",["MATE11","MATE20"] ],
+      ["Inglés I","HCW100",2,"ENGL"],
+      ["Historia Económica","HAH101",3,"HUM"]
    ]
 }
