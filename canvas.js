@@ -12,7 +12,7 @@ var carreras = {
 	'ELO': 'Electrónica',
 	'TEL': 'Telemática',
 	'ICOM': 'Comercial',
-	'ICOMO': 'Comercialo',
+	'ICOMO': 'Comercial 06',
 	'CIV': 'Civil',
 	'MAT': 'Matemática',
 	'MEC': 'Mecánica',
