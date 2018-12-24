@@ -24,11 +24,6 @@
       ["Historia Económica","HAH101",3,"HUM"]
    ],
    "s4":[
-      ["Deportes","DEW0",1,"EFI",["EFI101"]],
-      ["Contabilidad de Gestión","ICS143",3,"FINZ",["ICS141"]],
-      ["Microeconomía I","ICS162",4,"ECON",["ICS161","MATE25"]],
-      ["Cálculo integral","MATE26",3,"MATE",["MATE25"]],
-      ["Inglés II","HCW101",2,"ENGL",["HCW100"]],
-      ["Ciencias Sociales","HAH102",3,"HUM"["HAH101"]]
+      ["Deportes","DEW0",1,"EFI",["EFI101"]]
    ]
 }
