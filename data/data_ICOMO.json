@@ -38,5 +38,13 @@
       ["Macroeconomía","ICS263",3,"ECON",["ICS162"]],
       ["Métodos Cuantitativos para los Negocios","MATE27",3,"MATE",["MATE26"]],
       ["Inglés III","HCW102",2,"ENGL",["HCW101"]]
+   ],
+   "s6":[
+      ["Taller de Evaluación Social de Proyectos","ICS285",3,"TLLR",["ICS284"]],
+      ["Gestión Estratégica 1","ICS221",3,"MKTG",["ICS244"]],
+      ["Dirección Financiera","ICS245",3,"FINZ",["ICS284","ICS143"]],
+      ["Microeconomía II","ICS264",3,"ECON",["ICS162","MATE26"]],
+      ["Econometría","ICS294",4,"OPER",["MATE27"]],
+      ["Inglés IV","HCW103",2,"ENGL",["HCW102"]]
    ]
 }
