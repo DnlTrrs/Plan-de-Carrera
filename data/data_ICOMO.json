@@ -54,5 +54,24 @@
       ["Investigación de Operaciones","ICS295",4,"OPER",["MATE27"]],
       ["Inglés V","HCW104",2,"ENGL",["HCW103"]],
       ["Dirección de Personas","ICS214",3,"ADMI",["ICS111","HAH102"]]
+   ],
+   "s8":[
+      ["Creación de Empresas","ICS286",4,"TLLR",["ICS284","ICS232","ICS245"]],
+      ["Gestión Estratégica II","ICS222",3,"MKTG",["ICS221","ICS246","ICS232"]],
+      ["Sistemas de Información para la Gestión","INF370",3,"INFO",["ICS221","INF303"]],
+      ["Gestión de Operaciones","ICS296",4,"OPER",["ICS295"]],
+      ["Inglés VI","HCW105",2,"ENGL",["HCW104"]],
+      ["Políticas e Instituciones","HAH103",2,"HUM",["HAH102"]]
+   ],
+   "s9":[
+      ["Taller de Emprendimiento e Innovación","ICS387",3,"TLLR",["ICS222","ICS286","ICS285"]],
+      ["Entorno Legal de la Empresa","ICS315",4,"ADMI",["ICS214","ICS244","HAH103]],
+      ["Dirección y Liderazgo Organizacional","ICS113",4,"ADMI",["ICS214"]],
+      ["Electivo I","ICS801",3,"ELEC"],
+      ["Electivo II","ICS802",3,"ELEC"]
+   ],
+   "s10":[
+      ["Seminario de Título","ICS399",10,"TLLR",["ICS387"]],
+      ["Electivo III","ICS803",3,"ELEC"]
    ]
 }
