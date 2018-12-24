@@ -2,12 +2,6 @@
 Generador de la malla que permitirá
 visualizar los ramos aprobados.
 
-# TODO
-* [x] Almacenar los ramos aprobados en caché
-* [x] Generalizar el `JSON`, en lo posible agregar compatibilidad con `CSV`
-* [ ] **Comentar código, limpiarlo.**
-* [x] Disfrutar un buen café.
-
 ## Aportar
 
 Para aportar, en la carpeta `data` se tienen dos ficheros por cada
@@ -56,7 +50,7 @@ Ejemplo:
 ## Probar malla
 Para probar la malla, se tiene que abrir el `index.html` con **Firefox** (debido a que los otros navegadores tienen
 desactivada la lectura de archivos locales por defecto), y al final de la URL agregar `?m=CARR`. Por ejemplo, 
-para abrir `data_INF.json` debería quedar algo como `index.html?m=INF`.
+para abrir `data_ICOM05.json` debería quedar algo como `index.html?m=ICOM05`.
 
 Se aceptan Pull Requests para agregar carreras.
 
@@ -64,5 +58,6 @@ Se aceptan Pull Requests para agregar carreras.
 # Gracias
 
 Se agradece especialmente a:
-
-* Fernando Cardenas por agregar la malla de ICOM05
+* Sebastián Aedo por crear esta maravilla
+* Fernando Cardenas por agregar la malla de ICOM 05
+* Daniel Torres por agregar la malla de ICOM 06
