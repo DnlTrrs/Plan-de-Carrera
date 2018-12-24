@@ -7,20 +7,8 @@ var canvas = d3.select(".canvas")
 	.attr('height', height);
 
 var carreras = {
-	'INF': 'Informática',
-    'ICI': 'Industrial',
-	'ELO': 'Electrónica',
-	'TEL': 'Telemática',
 	'ICOM05': 'Comercial 05',
 	'ICOM06': 'Comercial 06',
-	'CIV': 'Civil',
-	'MAT': 'Matemática',
-	'MEC': 'Mecánica',
-	'ICQ': 'Química',
-	'ELI': 'Eléctrica',
-    'CONSTRU': 'Construcción',
-	'IDP': 'Diseño de Productos',
-    'MET': 'Metalúrgica'
 }
 
 /* ---------- axis ---------- */
