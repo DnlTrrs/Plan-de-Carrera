@@ -8,7 +8,7 @@
 	"ADMI": ["#336600", "Administración"],
 	"FINZ": ["#577170", "Finanzas"],
 	"ENGL": ["#6699FF", "Inglés"],
-	"ELEC": ["#FFCCCC", "Electivos"],
+	"ELEC": ["#F6546A", "Electivos"],
 	"MKTG": ["#3399FF", "Marketing y Gestión"],
 	"OPER": ["#C5ADE6", "Operaciones"]
 }
