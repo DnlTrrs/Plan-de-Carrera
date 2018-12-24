@@ -65,7 +65,7 @@ d3.queue()
 function main_function(error, data, colorBySector) {
 	if (error) {
 		console.log(error);
-		$(".canvas").prepend("<h1>OPS!, malla no encontrada, <a href='http://labcomp.cl/~saedo/apps/viz/ramos'>Volver al inicio</a></h1>");
+		$(".canvas").prepend("<h1>OPS!, malla no encontrada, <a href='https://dnltrrs.github.io/Plan-de-Carrera/'>Volver al inicio</a></h1>");
 		return;
 	}
 	// load the data
