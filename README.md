@@ -65,8 +65,4 @@ Se aceptan Pull Requests para agregar carreras.
 
 Se agradece especialmente a:
 
-* CEE de ELO por agregar su respectiva malla
-* [Manizuca](https://github.com/Manizuca) por agregar la malla de TEL
-* Fernando Cardenas por agregar la malla de ICOM
-* Abel Morgenstern  por agregar la malla de CIV
-* Bernardo Recabarren por agregar la malla de MAT
+* Fernando Cardenas por agregar la malla de ICOM05
