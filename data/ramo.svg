@@ -39,7 +39,7 @@
 		<rect x="564.1" y="269.3" class="st2" width="51.8" height="51.8"/>
 		<text transform="matrix(1 0 0 1 580.4725 307.2263)" class="st3 st4 st7 st6">5</text>
 	</g>
-	<text transform="matrix(1 0 0 1 441.535 179.6379)"><tspan x="0" y="0" class="st2 st8 st7 st6">Seminario</tspan><tspan x="-40" y="43" class="st2 st8 st7 st6">de Título</tspan></text>
+	<text transform="matrix(1 0 0 1 441.535 179.6379)"><tspan x="-20" y="0" class="st2 st8 st7 st6">Seminario</tspan><tspan x="-28.1" y="43" class="st2 st8 st7 st6">de Título</tspan></text>
 	<rect x="335.4" y="38.3" class="st9" width="294.4" height="284.5"/>
 	<g>
 		<text transform="matrix(1 0 0 1 688.3963 76.2903)"><tspan x="0" y="0" class="st1 st10 st11 st6">Número</tspan><tspan x="0" y="34.3" class="st1 st10 st11 st6">asignatura</tspan></text>
