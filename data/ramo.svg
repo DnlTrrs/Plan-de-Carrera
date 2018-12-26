@@ -16,7 +16,7 @@
 	.st10{font-family:'OpenSans-Italic';}
 	.st11{font-size:45.6679px;}
 	.st12{fill:none;stroke:#6D6E70;stroke-miterlimit:10;}
-	.st13{fill:#00828E;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st13{fill:#FF0040;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
 	.st14{font-size:31.3247px;}
 </style>
 <g>
@@ -30,14 +30,14 @@
 			<path class="st2" d="M603.1,80.6c0,11.4-9.3,20.7-20.7,20.7c-11.5,0-20.7-9.3-20.7-20.7c0-11.5,9.3-20.7,20.7-20.7
 				C593.8,59.8,603.1,69.1,603.1,80.6z"/>
 			<g>
-				<text transform="matrix(1 0 0 1 573.4041 90.134)" class="st3 st4 st5 st6">8</text>
+				<text transform="matrix(1 0 0 1 573.4041 90.134)" class="st3 st4 st5 st6">54</text>
 			</g>
 		</g>
 		<text transform="matrix(1 0 0 1 362.1854 90.5481)" class="st2 st4 st7 st6">ICS399</text>
 	</g>
 	<g>
 		<rect x="564.1" y="269.3" class="st2" width="51.8" height="51.8"/>
-		<text transform="matrix(1 0 0 1 580.4725 307.2263)" class="st3 st4 st7 st6">5</text>
+		<text transform="matrix(1 0 0 1 580.4725 307.2263)" class="st3 st4 st7 st6">10</text>
 	</g>
 	<text transform="matrix(1 0 0 1 441.535 179.6379)"><tspan x="-20" y="0" class="st2 st8 st7 st6">Seminario</tspan><tspan x="-28.1" y="43" class="st2 st8 st7 st6">de Título</tspan></text>
 	<rect x="335.4" y="38.3" class="st9" width="294.4" height="284.5"/>
@@ -64,14 +64,7 @@
 	<g>
 		<ellipse class="st13" cx="391.5" cy="291.1" rx="22.3" ry="22.3"/>
 		<g>
-			<text transform="matrix(1 0 0 1 382.6073 301.4504)" class="st2 st4 st14 st6">2</text>
-		</g>
-	</g>
-	<g>
-		<path class="st13" d="M458.4,291.1c0,12.3-10,22.3-22.3,22.3c-12.3,0-22.3-10-22.3-22.3c0-12.3,10-22.3,22.3-22.3
-			C448.4,268.9,458.4,278.8,458.4,291.1z"/>
-		<g>
-			<text transform="matrix(1 0 0 1 427.1854 301.4504)" class="st2 st4 st14 st6">3</text>
+			<text transform="matrix(1 0 0 1 382.6073 301.4504)" class="st2 st4 st14 st6">49</text>
 		</g>
 	</g>
 </g>
