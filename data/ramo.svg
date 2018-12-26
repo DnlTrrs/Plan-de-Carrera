@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 949.4 434.9" style="enable-background:new 0 0 949.4 434.9;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#00828E;}
+	.st0{fill:#FF0040;}
 	.st1{fill:#6D6E70;}
 	.st2{fill:#FFFFFF;}
 	.st3{fill:#231F20;}
@@ -33,13 +33,13 @@
 				<text transform="matrix(1 0 0 1 573.4041 90.134)" class="st3 st4 st5 st6">8</text>
 			</g>
 		</g>
-		<text transform="matrix(1 0 0 1 362.1854 90.5481)" class="st2 st4 st7 st6">FIS-110</text>
+		<text transform="matrix(1 0 0 1 362.1854 90.5481)" class="st2 st4 st7 st6">ICS399</text>
 	</g>
 	<g>
 		<rect x="564.1" y="269.3" class="st2" width="51.8" height="51.8"/>
 		<text transform="matrix(1 0 0 1 580.4725 307.2263)" class="st3 st4 st7 st6">5</text>
 	</g>
-	<text transform="matrix(1 0 0 1 441.535 179.6379)"><tspan x="0" y="0" class="st2 st8 st7 st6">Física</tspan><tspan x="-28.1" y="43" class="st2 st8 st7 st6">General I</tspan></text>
+	<text transform="matrix(1 0 0 1 441.535 179.6379)"><tspan x="0" y="0" class="st2 st8 st7 st6">Seminario</tspan><tspan x="-40" y="43" class="st2 st8 st7 st6">de Título</tspan></text>
 	<rect x="335.4" y="38.3" class="st9" width="294.4" height="284.5"/>
 	<g>
 		<text transform="matrix(1 0 0 1 688.3963 76.2903)"><tspan x="0" y="0" class="st1 st10 st11 st6">Número</tspan><tspan x="0" y="34.3" class="st1 st10 st11 st6">asignatura</tspan></text>
