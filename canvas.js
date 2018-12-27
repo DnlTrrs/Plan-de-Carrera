@@ -191,8 +191,7 @@ function main_function(error, data, colorBySector) {
 		.attr("text-anchor", "middle")
 		.attr("font-size", 30)
 		.attr("opacity", 0.01)
-		.text(`Puedes tachar tus ramos aprobados haciendo click sobre ellos.
-	A medida que vas aprobando ramos, se van liberando los que tienen prerrequisitos.
+		.text(`Puedes tachar tus ramos aprobados haciendo click sobre ellos y se irán liberando los que tienen pre-requisitos.
 	Haz click en cualquier lado para comenzar.`)
 		.transition().duration(800)
 		.attr("y", height/2)
