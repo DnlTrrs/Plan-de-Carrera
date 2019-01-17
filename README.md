@@ -62,4 +62,4 @@ Se aceptan Pull Requests para agregar carreras.
 Se agradece especialmente a:
 * Sebastián Aedo por crear esta maravilla
 * Fernando Cardenas por agregar la malla de ICOM 05
-* Daniel Torres por agregar la malla de ICOM 06
+* Daniel Torres por agregar la malla de ICOM 06 y retomarla para Ingeniería Comercial USM CC
