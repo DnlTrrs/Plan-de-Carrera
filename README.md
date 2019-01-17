@@ -12,13 +12,15 @@ una carrera a la malla interactiva.
 Un ejemplo de un semestre en `data_CARR.json` sería:
 
 ```json
-"s2": [["Química y Sociedad", "QUI-010", 3, "PC"],
-		["Matemáticas II", "MAT-022", 5, "PC", ["MAT-021"]],
-		["Física General I", "FIS-110", 3, "PC", ["MAT-021", "FIS-100"]],
-		["Introducción a la Ingeniería", "IWG-101", 2, "TIN"],
-		["Humanístico II", "HRW-133", 1, "HUM"],
-		["Educación Física II", "DEW-101", 1, "HUM", ["DEW-100"]]
-	]
+"s2": [
+      ["Química y Sociedad","QUI-010",3,"PC"],
+      ["Pre-cálculo","MATE11",3,"PC",["MATE10"]],
+      ["Álgebra lineal","MATE20",3,"PC",["MATE10"]],
+      ["Administración de empresas","ICS001",3,"ICOM",["IWG-101"]],
+      ["Inglés Básico","HCW319",2,"HUM"],
+      ["Humanístico I","HRW1",2,"HUM"],
+      ["Educación Física II","DEW-101",1,"HUM",["DEW-100"]]
+   ]
 ```
 Para modificar el JSON se debe saber lo siguiente:
 
