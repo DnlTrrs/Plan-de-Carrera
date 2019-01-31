@@ -7,7 +7,7 @@ var canvas = d3.select(".canvas")
 	.attr('height', height);
 
 var carreras = {
-	'ICOM05': 'Comercial 05',
+	'ICOM17': 'Comercial 17',
 	'ICOM06': 'Comercial 06',
 }
 
