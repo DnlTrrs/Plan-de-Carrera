@@ -32,7 +32,6 @@
       ["Microeconomía I","ICS005",3,"ICOM",["MATE25"]]
    ],
    "s5":[
-      ["Gestión de investigación de operaciones","ICS010",4,"ICOM",["MATE26"]],
       ["Ingeniería economica","ICS009",3,"ICOM",["ICS002"]],
       ["Inglés avanzado I","HCW323",2,"HUM",["HCW322"]],
       ["Legislación tributaria","ICS008",3,"ICOM",["ICS003"]],
@@ -51,7 +50,7 @@
    "s7":[
       ["Evaluación de proyectos generales","ICS019",3,"ICOM",["ICS005"]],
       ["Finanzas II","ICS018",3,"ICOM",["ICS014"]],
-      ["Gestión de operaciones","ICS020",4,"ICOM",["ICS010"]],
+      ["Gestión de investigación de operaciones","ICS010",4,"ICOM",["MATE26"]],
       ["Inglés conversación I","HCW325",2,"HUM",["HCW324"]],
       ["Marketing I","ICS017",3,"ICOM",["ICS004"]],
       ["Sistemas de información para la gestión","ICS016",3,"ICOM",["IWI-131","ICS005"]]
@@ -59,6 +58,7 @@
    "s8":[
       ["Desarrollo y control de proyectos","ICS024",3,"ICOM",["ICS019"]],
       ["Electivo I","ICS801",3,"ICOM"],
+      ["Gestión de operaciones","ICS020",4,"ICOM",["ICS010"]],
       ["Gestión estratégica","ICS022",3,"ICOM",["ICS014","ICS017","ICS015"]],
       ["Inglés conversación II","HCW326",2,"HUM",["HCW325"]],
       ["Liderazgo empresarial","ICS021",3,"ICOM",["ICS015","ICS017"]],
