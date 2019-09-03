@@ -10,7 +10,7 @@
    "s2":[
       ["Taller de Emprendimiento y Gestión","ICS182",4,"TLLR",["ICS181","INF130"]],
       ["Educación Física II","EFI101",1,"EFI",["EFI100"]],
-      ["Introducción a la Ingeniería Sostenible","IQA161",3,"TLLR"],
+      ["Introducción a la Ingeniería Sostenible","IQA161",3,"TLLR",["ICS161"]],
       ["Pre-Cálculo","MATE11",3,"MATE",["MATE10"]],
       ["Álgebra Lineal","MATE20",3,"MATE",["MATE10"]],
       ["Legislación Empresarial","ICS112",3,"ADMI",["ICS111"]]
