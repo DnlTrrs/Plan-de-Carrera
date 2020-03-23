@@ -63,4 +63,5 @@ Se agradece especialmente a:
 * Sebastián Aedo por crear esta maravilla
 * Fernando Cardenas por agregar la malla de ICOM 05
 * Daniel Torres por agregar la malla de ICOM 06 y retomarla para Ingeniería Comercial USM CC
-* La malla interactiva original (con más carreras) contiene nuevos elementos, pero considero que lo minimalista es mejor :B
+* La malla interactiva original (con más carreras) contiene nuevos elementos https://mallas.labcomp.cl/
+* pero considero que lo minimalista es mejor :B
