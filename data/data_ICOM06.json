@@ -4,7 +4,7 @@
       ["Educación Física I","EFI100",2,"EFI"],
       ["Programación y Tratamiento de Datos para la Gestión","INF130",5,"INFO"],
       ["Introducción a la Economía","ICS161",5,"ECON"],
-      ["Álgebra y Geometría","MATE10",6,"MATE"],
+      ["Álgebra y Geometría","MATE10",7,"MATE"],
       ["Administración de Empresas","ICS111",5,"ADMI"]   
    ],
    "s2":[
@@ -19,8 +19,8 @@
       ["Teoría Financiera","ICS142",5,"FINZ",["INF130","MATE20"]],
       ["Contabilidad Financiera","ICS141",5,"FINZ",["ICS112"]],
       ["Bases de Datos para la Gestión","INF303",5,"INFO",["INF130"]],
-      ["Cálculo diferencial","MATE25",5,"MATE",["MATE11","MATE20"]],
-      ["Inglés I","HCW100",2,"ENGL"],
+      ["Cálculo diferencial","MATE25",7,"MATE",["MATE11","MATE20"]],
+      ["Inglés I","HCW100",3,"ENGL"],
       ["Historia Económica","HAH101",5,"HUM"]
    ],
    "s4":[
@@ -28,7 +28,7 @@
       ["Contabilidad de Gestión","ICS143",5,"FINZ",["ICS141"]],
       ["Microeconomía I","ICS162",5,"ECON",["ICS161","MATE25"]],
       ["Cálculo integral","MATE26",5,"MATE",["MATE25"]],
-      ["Inglés II","HCW101",2,"ENGL",["HCW100"]],
+      ["Inglés II","HCW101",3,"ENGL",["HCW100"]],
       ["Ciencias Sociales","HAH102",5,"HUM",["HAH101"]]
    ],
    "s5":[
@@ -37,7 +37,7 @@
       ["Dirección Tributaria","ICS244",5,"FINZ",["ICS141"]],
       ["Macroeconomía","ICS263",5,"ECON",["ICS162"]],
       ["Métodos Cuantitativos para los Negocios","MATE27",5,"MATE",["MATE26"]],
-      ["Inglés III","HCW102",2,"ENGL",["HCW101"]]
+      ["Inglés III","HCW102",3,"ENGL",["HCW101"]]
    ],
    "s6":[
       ["Taller de Evaluación Social de Proyectos","ICS285",5,"TLLR",["ICS284"]],
@@ -45,14 +45,14 @@
       ["Dirección Financiera","ICS245",5,"FINZ",["ICS284","ICS143"]],
       ["Microeconomía II","ICS264",5,"ECON",["ICS162","MATE26"]],
       ["Econometría","ICS294",7,"OPER",["MATE27"]],
-      ["Inglés IV","HCW103",2,"ENGL",["HCW102"]]
+      ["Inglés IV","HCW103",3,"ENGL",["HCW102"]]
    ],
    "s7":[
       ["Marketing Táctico","ICS232",6,"MKTG",["ICS231","MATE27"]],
       ["Finanzas Corporativas","ICS246",5,"FINZ",["ICS245","ICS294"]],
       ["Organización Industrial","ICS265",5,"ECON",["ICS264","ICS263"]],
       ["Investigación de Operaciones","ICS295",5,"OPER",["MATE27"]],
-      ["Inglés V","HCW104",2,"ENGL",["HCW103"]],
+      ["Inglés V","HCW104",3,"ENGL",["HCW103"]],
       ["Dirección de Personas","ICS214",5,"ADMI",["ICS111","HAH102"]]
    ],
    "s8":[
@@ -60,7 +60,7 @@
       ["Gestión Estratégica II","ICS222",6,"MKTG",["ICS221","ICS246","ICS232"]],
       ["Sistemas de Información para la Gestión","INF370",5,"INFO",["ICS221","INF303"]],
       ["Gestión de Operaciones","ICS296",5,"OPER",["ICS295"]],
-      ["Inglés VI","HCW105",2,"ENGL",["HCW104"]],
+      ["Inglés VI","HCW105",3,"ENGL",["HCW104"]],
       ["Políticas e Instituciones","HAH103",5,"HUM",["HAH102"]]
    ],
    "s9":[
