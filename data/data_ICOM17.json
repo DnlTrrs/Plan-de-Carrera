@@ -1,8 +1,8 @@
 ﻿{
    "s1":[
       ["Programación","IWI-131",5,"PC"],
-      ["Álgebra y geometría","MATE10",7,"PC"],
-      ["Introducción a la Física","FIS-100",5,"PC"],
+      ["Álgebra y geometría","MATE10",6,"PC"],
+      ["Introducción a la Física","FIS-100",6,"PC"],
       ["Introducción a la ingeniería","IWG-101",3,"HUM"],
       ["Educación Física I","DEW-100",2,"HUM"]
    ],
@@ -16,7 +16,7 @@
       ["Educación Física II","DEW-101",2,"HUM",["DEW-100"]]
    ],
    "s3":[
-      ["Cálculo diferencial","MATE25",7,"PC",["MATE11","MATE20"]],
+      ["Cálculo diferencial","MATE25",5,"PC",["MATE11","MATE20"]],
       ["Contabilidad I","ICS002",5,"ICOM",["ICS001"]],
       ["Deporte","DEW0",2,"HUM",["DEW-101"]],
       ["Humanistico II","HRW2",3,"HUM"],
@@ -28,7 +28,7 @@
       ["Contabilidad II","ICS004",5,"ICOM",["ICS002"]],
       ["Humanistico III","HRW3",3,"HUM"],
       ["Inglés medio II","HCW322",3,"HUM",["HCW321"]],
-      ["Laboratorio de procesos industriales","ILN252",7,"IND",["QUI-010","FIS-100"]],
+      ["Laboratorio de procesos industriales","ILN252",5,"IND",["QUI-010","FIS-100"]],
       ["Microeconomía I","ICS005",5,"ICOM",["MATE25"]]
    ],
    "s5":[
