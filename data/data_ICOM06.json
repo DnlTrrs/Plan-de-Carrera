@@ -45,14 +45,14 @@
       ["Dirección Financiera","ICS245",5,"FINZ",["ICS284","ICS143"]],
       ["Microeconomía II","ICS264",5,"ECON",["ICS162","MATE26"]],
       ["Econometría","ICS294",7,"OPER",["MAT033"]],
-      ["Inglés IV","HCW103",3,"ENGL",["HCW102"]]
+      ["Inglés IV","HCW200",3,"ENGL",["HCW102"]]
    ],
    "s7":[
       ["Marketing Táctico","ICS232",6,"MKTG",["ICS231","MAT033"]],
       ["Finanzas Corporativas","ICS246",5,"FINZ",["ICS245","ICS294"]],
       ["Organización Industrial","ICS265",5,"ECON",["ICS264","ICS263"]],
       ["Investigación de Operaciones","ICS295",5,"OPER",["MAT033"]],
-      ["Inglés V","HCW104",3,"ENGL",["HCW103"]],
+      ["Inglés V","HCW104",3,"ENGL",["HCW200"]],
       ["Dirección de Personas","ICS213",5,"ADMI",["ICS111","HAH102"]]
    ],
    "s8":[
