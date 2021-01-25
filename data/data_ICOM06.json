@@ -53,7 +53,7 @@
       ["Organización Industrial","ICS265",5,"ECON",["ICS264","ICS263"]],
       ["Investigación de Operaciones","ICS295",5,"OPER",["MAT033"]],
       ["Inglés V","HCW104",3,"ENGL",["HCW103"]],
-      ["Dirección de Personas","ICS214",5,"ADMI",["ICS111","HAH102"]]
+      ["Dirección de Personas","ICS213",5,"ADMI",["ICS111","HAH102"]]
    ],
    "s8":[
       ["Creación de Empresas","ICS286",7,"TLLR",["ICS284","ICS232","ICS245"]],
@@ -65,8 +65,8 @@
    ],
    "s9":[
       ["Taller de Emprendimiento e Innovación","ICS387",5,"TLLR",["ICS222","ICS286","ICS285"]],
-      ["Entorno Legal de la Empresa","ICS315",5,"ADMI",["ICS214","ICS244","HAH103"]],
-      ["Dirección y Liderazgo Organizacional","ICS113",5,"ADMI",["ICS214"]],
+      ["Entorno Legal de la Empresa","ICS315",5,"ADMI",["ICS213","ICS244","HAH103"]],
+      ["Dirección y Liderazgo Organizacional","ICS113",5,"ADMI",["ICS213"]],
       ["Electivo I","ICS801",5,"ELEC"],
       ["Electivo II","ICS802",5,"ELEC"]
    ],
