@@ -45,28 +45,28 @@
       ["Dirección Financiera","ICS245",5,"FINZ",["ICS284","ICS143"]],
       ["Microeconomía II","ICS264",5,"ECON",["ICS162","MATE26"]],
       ["Econometría","ICS294",7,"OPER",["MAT033"]],
-      ["Inglés IV","HCW103",3,"ENGL",["HCW102"]]
+      ["Inglés IV","HCW200",3,"ENGL",["HCW102"]]
    ],
    "s7":[
       ["Marketing Táctico","ICS232",6,"MKTG",["ICS231","MAT033"]],
       ["Finanzas Corporativas","ICS246",5,"FINZ",["ICS245","ICS294"]],
       ["Organización Industrial","ICS265",5,"ECON",["ICS264","ICS263"]],
       ["Investigación de Operaciones","ICS295",5,"OPER",["MAT033"]],
-      ["Inglés V","HCW104",3,"ENGL",["HCW103"]],
-      ["Dirección de Personas","ICS214",5,"ADMI",["ICS111","HAH102"]]
+      ["Inglés V","HCW201",3,"ENGL",["HCW200"]],
+      ["Dirección de Personas","ICS213",5,"ADMI",["ICS111","HAH102"]]
    ],
    "s8":[
       ["Creación de Empresas","ICS286",7,"TLLR",["ICS284","ICS232","ICS245"]],
       ["Gestión Estratégica II","ICS222",6,"MKTG",["ICS221","ICS246","ICS232"]],
       ["Sistemas de Información para la Gestión","INF370",5,"INFO",["ICS221","INF303"]],
       ["Gestión de Operaciones","ICS296",5,"OPER",["ICS295"]],
-      ["Inglés VI","HCW105",3,"ENGL",["HCW104"]],
+      ["Inglés VI","HCW202",3,"ENGL",["HCW201"]],
       ["Políticas e Instituciones","HAH103",5,"HUM",["HAH102"]]
    ],
    "s9":[
       ["Taller de Emprendimiento e Innovación","ICS387",5,"TLLR",["ICS222","ICS286","ICS285"]],
-      ["Entorno Legal de la Empresa","ICS315",5,"ADMI",["ICS214","ICS244","HAH103"]],
-      ["Dirección y Liderazgo Organizacional","ICS113",5,"ADMI",["ICS214"]],
+      ["Entorno Legal de la Empresa","ICS315",5,"ADMI",["ICS213","ICS244","HAH103"]],
+      ["Dirección y Liderazgo Organizacional","ICS314",5,"ADMI",["ICS213"]],
       ["Electivo I","ICS801",5,"ELEC"],
       ["Electivo II","ICS802",5,"ELEC"]
    ],
