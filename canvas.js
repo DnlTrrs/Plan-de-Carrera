@@ -9,7 +9,7 @@ var canvas = d3.select(".canvas")
 var carreras = {
 	'ICOM17': 'Comercial 17',
 	'ICOM06': 'Comercial 06',
-	'TUAE': 'TU Administracion de Empresas',
+	'TUAE': 'TU Administración de Empresas',
 }
 
 /* ---------- axis ---------- */
