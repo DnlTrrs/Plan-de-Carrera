@@ -1,0 +1,33 @@
+{
+   "s1":[
+      ["Administración de Empresas","ICS002A",5,"ADMI"],
+      ["Taller de Habilidades Sociales y Comunicacionales","ICO004A",6,"TLLR"],
+      ["Fundamentos Económicos para la Administración","ICO001A",6,"ECON"],
+      ["Elementos de la Matemática","MAT001_A",5,"MATE"],
+      ["Inglés I","HCW100-T",2,"ENGL"],
+      ["Tecnologías para la Administración","ICO003A",5,"INFO"]
+   ],
+   "s2":[
+      ["Aspectos Legales de la Administración","ICS008A",6,"ADMI",["ICS002A"]],
+      ["Comercialización I","ICO007A",6,"MKTG",["ICS002A"]],
+      ["Economía para la Administración","ICO006A",6,"ECON",["ICO001A","ICS002A"]],
+      ["Matemática Aplicada","MAT002_A",5,"MATE",["MAT001_A"]],
+      ["Inglés II","HCW101-T",2,"ENGL",["HCW100-T"]]
+   ],
+   "s3":[
+      ["Contabilidad para la Administración","ICO013A",6,"ADMI",["ICS008A"]],
+      ["Comercialización II","ICO012A",6,"MKTG",["ICO007A"]],
+      ["Matemática Financiera","ICO010A",5,"FINZ",["MAT002_A"]],
+      ["Procesos de Control en la Administración","ICO011A",5,"ADMI",["ICO006A"]],
+      ["Programación y Tratamiento de Datos para la Gestión","ICO014A",5,"INFO",["ICO003A","MAT001_A"]],
+      ["Educación Física","EFI014T",2,"EFI"]
+
+   ],
+   "s4":[
+      ["Costos y Presupuestos para la Administración","ICO018A",6,"ADMI",["ICO013A","ICO010A"]],
+      ["Taller de Integración","ICO016A",5,"TLLR",["ICO013A","ICO012A","ICO010A"]],
+      ["Gestión de Personas","ICO015A",5,"ADMI",["ICS002A","ICO001A"]],
+      ["Taller de Creatividad y Emprendimiento","ICO017A",5,"TLLR"],
+      ["Optativo","ICO01LA",5,"ELEC"]
+   ]
+}

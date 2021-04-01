@@ -1,0 +1,12 @@
+{
+	"MATE": ["#CC6600", "Matemática"],
+	"TLLR": ["#FF0040", "Talleres"],
+	"EFI": ["#3366CC", "Defider"],
+	"INFO": ["#660099", "Informática"],
+	"ECON": ["#4D0629", "Economías"],
+	"ADMI": ["#336600", "Administración"],
+	"FINZ": ["#577170", "Finanzas"],
+	"ENGL": ["#6699FF", "Inglés"],
+	"ELEC": ["#F6546A", "Optativo"],
+	"MKTG": ["#3399FF", "Comercialización"],
+}
