@@ -65,3 +65,4 @@ Se agradece especialmente a:
 * Daniel Torres por agregar la malla de ICOM 06 y retomarla para Ingeniería Comercial USM CC
 * La malla interactiva original (con más carreras) contiene nuevos elementos https://mallas.labcomp.cl/ pero considero que lo minimalista es mejor :B
 * Javiera Antonia por recordar incluir la nueva carrera Técnico Universitario en Administración de Empresas de la Sede Viña del Mar
+* Paola Yulieftjh por informar de los nuevos cambios en el plan 6606
