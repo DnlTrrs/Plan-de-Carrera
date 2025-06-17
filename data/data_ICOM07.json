@@ -22,7 +22,7 @@
       ["Taller de Creatividad","IDP107",5,"TLLR",["MATE10"]],
       ["Legislación Empresarial","ICS112",5,"ADMI",["ICS111"]],
       ["Programación para la Analítica de Gestión","INF316",0,"INFO"],
-      ["Contabilidad II","ICS140",0,"FINZ"],
+      ["Contabilidad II","ICS144",0,"FINZ"],
       ["Inglés III","HCW102",3,"ENGL",["HCW101"]]
    ],
    "s4":[
@@ -64,7 +64,7 @@
       ["Dirección Estratégica I","ICS223",6,"ADMI"],
       ["Marketing II","ICS233",0,"MKTG"],
       ["Preparación y Presentación de Proyectos","ICS166",0,"TLLR"],
-      ["Finanzas Corporativas","ICS247",0,"FINZ",["ICS247"]]
+      ["Finanzas Corporativas","ICS246",0,"FINZ",["ICS247"]]
    ],
    "s9":[
       ["Optativo de Profundización I","ICS700",0,"TLLR"],
